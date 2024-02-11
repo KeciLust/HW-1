@@ -1,7 +1,12 @@
 HW-1_1 Первое задание
+
 current - показ даты
 current -m или current --month  - показ текущего месяца
 current -d или current --date  - показ текущего дня
 current -y или current --year  - показ текущего года
 current add -m 2  - добавление 2 месяцев к показу
 current sub --date 4  -  удаление 4 дней с показа
+
+HW-1_2 Второе задание
+
+dialog - запуск игры
